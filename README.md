@@ -75,7 +75,12 @@ This is an open-source project and released under the MIT License.
 Happy Coding! 
 
 Output:
-![image](https://github.com/user-attachments/assets/722ec1fb-c07a-47c4-a5a8-edebdbd55f61)
+
 ![image](https://github.com/user-attachments/assets/16ba868d-8293-47e4-9931-363c8b7d0026)
+
+![image](https://github.com/user-attachments/assets/c7d6b0af-928c-405f-9aa4-428eadfae981)
+
+
+
 
 
