@@ -17,9 +17,7 @@ Libraries usually have problems with hand-keeping books and ineffective tracking
  How to Set Up the Project
  1️⃣ Clone the Repository
 
- git clone https://github.com/yourusername/library-management.git
- cd library-management
-
+ git clone https://github.com/pratik152IT/CL3.git
 
 2️⃣ Create a Virtual Environment
 
@@ -75,5 +73,9 @@ This is an open-source project and released under the MIT License.
 
 ---	
 Happy Coding! 
+
+Output:
+![image](https://github.com/user-attachments/assets/722ec1fb-c07a-47c4-a5a8-edebdbd55f61)
+![image](https://github.com/user-attachments/assets/16ba868d-8293-47e4-9931-363c8b7d0026)
 
 
